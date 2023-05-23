@@ -1,0 +1,10 @@
+Yarisma Basladi!
+Yarismaci 26. metreye kadar bir engelle karsilasmadi.
+26. Metrede bir engel var.
+100 Ve 26 sayilari aralarinda asal degil.
+Yarismaci Yasam Puani: 100
+Yarismaci 48. metreye kadar bir engelle karsilasmadi.
+48. Metrede bir engel var.
+100 Ve 48 sayilari aralarinda asal degil.
+Yarismaci Yasam Puani: 100
+Yarismaci yarismayi basariyla tamamladi! Kalan HP: 100
